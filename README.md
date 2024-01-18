@@ -42,10 +42,10 @@
    <br>
    Email: saykatbhakta05@gmail.com
    <br>
-   LinkedIn : https://www.linkedin.com/in/saykatbhakta/
+   Linkedin : https://www.linkedin.com/in/saykatbhakta/
 
 ## Website Link :
-- https://wanderlust-v2vu.onrender.com/listings
+url: https://wanderlust-v2vu.onrender.com/listings
 
 
 ### Thanks for visit... 😊😊😊
